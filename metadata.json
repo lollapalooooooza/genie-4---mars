@@ -1,0 +1,8 @@
+{
+  "name": "Ares Horizon · 火星探索世界模型",
+  "description": "基于 Genie 4 实时交互式世界模型构建的火星表面驾驶、峡谷滑翔与地貌探索终端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
